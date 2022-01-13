@@ -1,0 +1,22 @@
+{
+   "transactions":[
+      {
+         "date":"10-11-2021",
+         "description":"ABC enterprise",
+         "amount":"-200",
+         "balanceAmount":"4800"
+      },
+      {
+         "date":"1-11-2020",
+         "description":"Atm withdrawal",
+         "amount":"2000",
+         "balanceAmount":"5000"
+      },
+      {
+         "date":"12-09-2020",
+         "description":"Falcon stores",
+         "amount":"-3000",
+         "balanceAmount":"3000"
+      }
+   ]
+}
