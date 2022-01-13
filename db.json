@@ -22,7 +22,7 @@
       "transactions2":[
       {
          "date":"10-11-2021",
-         "description":"ABC enterprise",
+         "description":"PQR enterprise",
          "amount":"-200",
          "balanceAmount":"4800"
       },
@@ -42,7 +42,7 @@
       "transactions3":[
       {
          "date":"10-11-2021",
-         "description":"ABC enterprise",
+         "description":"LMN enterprise",
          "amount":"-200",
          "balanceAmount":"4800"
       },
